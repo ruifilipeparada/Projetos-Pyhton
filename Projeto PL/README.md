@@ -1,8 +1,9 @@
-## OBJETIVO
+## Objetivo
 Prever a tabela final da Premier League 2025/2026, com recurso a estatísticas históricas e à construção de um modelo preditivo.
 
+---
 
-## DESCRIÇÃO
+## Descrição
 Para este projeto, utilizei dados das últimas 5 temporadas (20/21 a 24/25) retirados do site football-data.co.uk, totalizando cerca de 1.900 jogos. Esta janela histórica pareceu-me suficiente para capturar padrões recentes sem sobrevalorizar temporadas antigas.
 As etapas principais do projeto incluem: 
 - Data Analysis
@@ -22,8 +23,9 @@ Tendo em conta possíveis melhorias futuras a ser implementadas, pensei em:
 
 *nota: ambos os ficheiros .py contêm um índice no início, que ajuda a perceber a estrutura do documento 
 
+---
 
-## ESTRUTURA
+## Estrutura
 Projeto PL 
   - projeto_pl_code.py: ficheiro py de análise de dados, feature engineering e criação do modelo preditivo
   - main.py: ficheiro py de previsão da Premier League 2025/2026
@@ -35,8 +37,9 @@ Projeto PL
 
 *nota: é vital que a estrutura da pasta "Projeto PL" seja mantida, de modo a não comprometer os upload dentro dos dois ficheiros .py 
 
+---
 
-## LINGUAGEM E FERRAMENTAS
+## Linguagem e Ferramentas
 - Linguagem: Python
 - Editor: VS Code
 - Dados: CSV 
