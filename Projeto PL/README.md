@@ -21,7 +21,7 @@ Tendo em conta possíveis melhorias futuras a ser implementadas, pensei em:
   - transferências (jogadores, posições, investimento, receita de vendas)
   - dados financeiros (folha salarial, receitas de bilheteria e merchandising, situação do clube face às regras de fair play da Liga e da UEFA) 
 
-*nota: ambos os ficheiros .py contêm um índice no início, que ajuda a perceber a estrutura do documento 
+> **Nota:** ambos os ficheiros .py contêm um índice no início, que ajuda a perceber a estrutura do documento 
 
 ---
 
@@ -35,7 +35,7 @@ Projeto PL
   - modelo
     - (3 pkl: pasta onde são guardados os ficheiros do modelo, scaler e encoder)
 
-*nota: é vital que a estrutura da pasta "Projeto PL" seja mantida, de modo a não comprometer os upload dentro dos dois ficheiros .py 
+> **Nota:** é vital que a estrutura da pasta "Projeto PL" seja mantida, de modo a não comprometer os upload dentro dos dois ficheiros .py 
 
 ---
 
