@@ -28,13 +28,13 @@ Tendo em conta possíveis melhorias futuras a ser implementadas, pensei em:
 ---
 
 ## Estrutura
-Projeto PL 
+Projeto PL/ 
   - projeto_pl_code.py: ficheiro py de análise de dados, feature engineering e criação do modelo preditivo
   - main.py: ficheiro py de previsão da Premier League 2025/2026
   - notes.txt: ficheiro de texto onde são explicadas todas as features usadas ao longo do projeto 
-  - data
+  - data/:
     - (8 cvs: todos os ficheiros csv necessários)
-  - modelo
+  - modelo/:
     - (3 pkl: pasta onde são guardados os ficheiros do modelo, scaler e encoder)
 
 > **Nota:** é vital que a estrutura da pasta "Projeto PL" seja mantida, de modo a não comprometer os upload dentro dos dois ficheiros .py 
