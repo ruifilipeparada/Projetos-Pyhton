@@ -13,6 +13,7 @@ As etapas principais do projeto incluem:
 
 Ao longo destes blocos, tive em conta a otimização dos dados para o modelo, sem perder contextualidade, neste caso, rigor futebolístico. 
 Outro ponto importante que tive em atenção foi ensinar o modelo a lidar com equipas promovidas que não tinham dados históricos na janela de 5 temporadas de PL utilizada.
+
 Para a previsão, utilizei o XGBRegressor, com rank como target. Testei o modelo na temporada 24/25, realizei hyperparameter tuning e apliquei-o à temporada 25/26. 
 
 Tendo em conta possíveis melhorias futuras a ser implementadas, pensei em: 
