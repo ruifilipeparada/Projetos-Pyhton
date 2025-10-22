@@ -4,7 +4,7 @@ Prever a tabela final da Premier League 2025/2026, com recurso a estatísticas h
 ---
 
 ## Descrição
-Para este projeto, utilizei dados das últimas 5 temporadas (20/21 a 24/25) retirados do site football-data.co.uk, totalizando cerca de 1.900 jogos. Esta janela histórica pareceu-me suficiente para capturar padrões recentes sem sobrevalorizar temporadas antigas.
+Para este projeto, utilizei dados das últimas 5 temporadas (20/21 a 24/25) retirados do site football-data.co.uk, totalizando 1.900 jogos. Esta janela histórica pareceu-me suficiente para capturar padrões recentes sem sobrevalorizar temporadas antigas.
 As etapas principais do projeto incluem: 
 - Data Analysis
 - Feature Engineering
