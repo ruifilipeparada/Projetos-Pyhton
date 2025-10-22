@@ -17,7 +17,7 @@ Outro ponto importante que tive em atenção foi ensinar o modelo a lidar com eq
 Para a previsão, utilizei o XGBRegressor, com rank como target. Testei o modelo na temporada 24/25, realizei hyperparameter tuning e apliquei-o à temporada 25/26. 
 
 Tendo em conta possíveis melhorias futuras a ser implementadas, pensei em: 
-- incluir dados de divisões inferiores que mostrem o histórico real das equipas promovidas (ao invés de fazer o cálculos de valores proxy)
+- incluir dados de divisões inferiores que mostrem o histórico real das equipas promovidas (ao invés de fazer o cálculo de valores proxy)
 - incluir features relevantes para prever descidas e subidas abruptas de rendimentos das equipas, como:
   - se mudaram ou não de treinador 
   - transferências (jogadores, posições, investimento, receita de vendas)
